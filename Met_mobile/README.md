@@ -5,4 +5,4 @@ Original (desktop version):
 
 Tuesday, November 26th | Preliminary sketch for mobile version of the met sculptures site:
 
-![sculptures outline](sculptures_mobile-01.png)
+![sculptures outline](sculptures_mobile-02.png)
